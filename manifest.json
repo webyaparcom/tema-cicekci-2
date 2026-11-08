@@ -1,0 +1,29 @@
+{
+  "name": "Gülce Çiçek Evi",
+  "short_name": "Gülce Çiçek",
+  "description": "Gülce Çiçek Evi: mevsimlik buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#B8336A",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

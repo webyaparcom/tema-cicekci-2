@@ -1,0 +1,40 @@
+{
+  "id": "qpvaonjzrc",
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Gülce Çiçek Evi, mevsiminde ve yakın kaynaktan temin edilen çiçeklerle çalışan kurgusal bir demo çiçekçidir. Alıcının adı, adresi ve telefonu sipariş veren kişiden alınan üçüncü kişi verisidir; yalnızca teslimat için kullanılır ve aydınlatma metnimizde açıklanır.",
+    "en": "Gulce Flower House is a fictional demo florist working with seasonal flowers from nearby sources. The recipient’s name, address and phone are third-party data obtained from the person placing the order; they are used only for delivery and are explained in our privacy notice.",
+    "ar": "بيت غولجه للزهور محل زهور تجريبي افتراضي يعمل بزهور الموسم من مصادر قريبة. اسم المستلم وعنوانه وهاتفه بيانات طرف ثالث تُؤخذ من مقدّم الطلب؛ وتُستخدم للتسليم فقط ويُوضَّح ذلك في نص الخصوصية لدينا."
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "path": "hakkimizda",
+  "icon": "info",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "0eua5o",
+      "ou3fu7"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "date": "2026-10-31T14:42:37.626Z",
+  "update": "2026-11-05T23:39:21.413Z"
+}
