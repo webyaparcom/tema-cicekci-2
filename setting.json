@@ -1,0 +1,57 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Gülce Çiçek Evi: mevsimlik buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+    "en": "Gulce Flower House: seasonal bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site)",
+    "ar": "بيت غولجه للزهور: باقات موسمية وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "çiçekçi, buket, organizasyon",
+    "en": "florist, bouquet, events",
+    "ar": "محل زهور، باقة، فعاليات"
+  },
+  "category": "Kurumsal",
+  "name": "Gülce Çiçek Evi",
+  "domain": "cicekci-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#B8336A",
+  "publishMode": "static",
+  "font": {
+    "body": "lora",
+    "heading": "cormorant-garamond",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "phone": "+90 342 000 00 00",
+  "email": "siparis@gulcecicek.example",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "0px",
+    "--mx-radius-md": "0px",
+    "--mx-radius-lg": "0px",
+    "--mx-radius-xl": "0px",
+    "--mx-shadow-md": "none"
+  }
+}
