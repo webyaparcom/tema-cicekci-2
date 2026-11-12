@@ -31,7 +31,13 @@
         "logoimg": "",
         "langcolor": "currentColor",
         "langbg": "transparent",
-        "tekSatir": ""
+        "tekSatir": "",
+        "logoDark": "",
+        "duzen": "",
+        "ctaText": "",
+        "ctaHref": "",
+        "temaDugmesi": "",
+        "temaAnahtar": ""
       },
       "version": "1.0.0",
       "icon": "menu"
@@ -1029,7 +1035,7 @@
         "title": {
           "tr": "Çiçek sipariş talebi",
           "en": "Flower order request",
-          "ar": "طلب شراء زهور"
+          "ar": "طلب زهور"
         },
         "description": {
           "tr": "Ürünü ve teslimat gününü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Ödeme alınmaz. ",
@@ -1789,6 +1795,12 @@
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
           "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "girisHref": "",
+        "girisText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
         }
       },
       "id": "me0wsg",
@@ -1842,7 +1854,10 @@
           "en": "Daily 08:00 – 21:00 · Order by 15:00 for same-day delivery",
           "ar": "يوميًا 08:00 – 21:00 · اطلب قبل 15:00 للتسليم في اليوم نفسه"
         },
-        "social": []
+        "social": [],
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)"
       },
       "data": [],
       "id": "fqzmke",
@@ -1903,7 +1918,7 @@
         "cta1": {
           "tr": "Sipariş talebi",
           "en": "Order request",
-          "ar": "طلب شراء"
+          "ar": "طلب زهور"
         },
         "cta1_url": "siparis-talebi",
         "cta2": {
@@ -1962,7 +1977,7 @@
           "baslik": {
             "tr": "Sipariş Talebi",
             "en": "Order Request",
-            "ar": "طلب شراء"
+            "ar": "طلب زهور"
           },
           "metin": {
             "tr": "Teslimat gününü seçin; ödeme alınmaz.",
@@ -1972,7 +1987,7 @@
           "cta": {
             "tr": "Sipariş talebi",
             "en": "Order request",
-            "ar": "طلب شراء"
+            "ar": "طلب زهور"
           },
           "url": "siparis-talebi"
         }
@@ -2281,8 +2296,8 @@
           "onek": "",
           "sonek": "",
           "etiket": {
-            "tr": "Saat açık (günlük)",
-            "en": "Hours open per day",
+            "tr": "Günlük açık saat",
+            "en": "Open hours a day",
             "ar": "ساعات العمل يوميًا"
           },
           "aciklama": {
@@ -2297,9 +2312,9 @@
           "onek": "",
           "sonek": "",
           "etiket": {
-            "tr": "Gün hizmet",
-            "en": "Days a week",
-            "ar": "أيام أسبوعيًا"
+            "tr": "Haftada açık gün",
+            "en": "Days open a week",
+            "ar": "أيام العمل أسبوعيًا"
           },
           "aciklama": {
             "tr": "",
@@ -2485,7 +2500,7 @@
         "btn1Text": {
           "tr": "Sipariş talebi",
           "en": "Order request",
-          "ar": "طلب شراء"
+          "ar": "طلب زهور"
         },
         "btn1Url": "siparis-talebi",
         "btn2Text": {
